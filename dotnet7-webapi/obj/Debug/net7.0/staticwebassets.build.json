@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FuNTU91VWmdgJmm03Rmc4bxKESjvYe8KoSeDVqn3Acc=",
+  "Source": "dotnet7-webapi",
+  "BasePath": "_content/dotnet7-webapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
